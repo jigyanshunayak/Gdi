@@ -1,0 +1,188 @@
+[16-Feb-2021 12:02:56 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:02:56 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:02:56 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:04 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:04 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:04 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:17 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:17 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:22:17 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:23:18 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:23:18 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:23:18 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:24:17 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:24:17 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:24:17 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:25:57 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:25:57 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:25:57 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:26:06 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:26:06 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:26:06 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 145
+[16-Feb-2021 12:30:15 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 333
+[16-Feb-2021 12:30:15 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 333
+[16-Feb-2021 12:30:15 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 333
+[16-Feb-2021 12:30:18 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 333
+[16-Feb-2021 12:30:19 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/cakiweb/public_html/gdi/index.php on line 333
+[16-Feb-2021 12:30:19 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cakiweb/public_html/gdi/index.php on line 333
+[27-Oct-2023 10:15:47 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Oct-2023 10:17:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Oct-2023 10:15:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[30-Oct-2023 10:10:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-Oct-2023 10:22:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Nov-2023 10:31:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Nov-2023 10:14:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Nov-2023 10:17:48 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Nov-2023 10:19:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Nov-2023 10:12:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Nov-2023 10:06:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Nov-2023 12:12:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Nov-2023 12:08:44 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Nov-2023 10:21:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Nov-2023 10:14:32 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Nov-2023 10:14:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Nov-2023 10:42:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Nov-2023 10:10:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Nov-2023 10:07:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Nov-2023 10:05:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Nov-2023 10:09:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Nov-2023 10:12:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Nov-2023 10:08:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Nov-2023 10:17:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Nov-2023 10:20:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Nov-2023 10:38:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Nov-2023 10:21:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Nov-2023 10:24:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Nov-2023 10:29:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Nov-2023 10:18:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Nov-2023 10:35:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Nov-2023 11:10:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Nov-2023 11:22:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[30-Nov-2023 11:20:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Dec-2023 11:21:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Dec-2023 11:16:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Dec-2023 11:36:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Dec-2023 11:51:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Dec-2023 12:18:04 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Dec-2023 12:34:53 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Dec-2023 12:11:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Dec-2023 10:16:46 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Dec-2023 10:09:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Dec-2023 10:05:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Dec-2023 10:03:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Dec-2023 10:09:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Dec-2023 11:21:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Dec-2023 10:00:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Dec-2023 10:02:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Dec-2023 10:11:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Dec-2023 10:07:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Dec-2023 10:05:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Dec-2023 10:15:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Dec-2023 10:12:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Dec-2023 10:25:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Dec-2023 10:29:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Dec-2023 10:27:22 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Dec-2023 10:29:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Dec-2023 10:34:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Dec-2023 10:33:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Dec-2023 10:47:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Dec-2023 10:46:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Dec-2023 10:57:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[30-Dec-2023 10:55:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-Dec-2023 11:06:18 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Jan-2024 11:00:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Jan-2024 11:16:37 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Jan-2024 12:02:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Jan-2024 12:10:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Jan-2024 12:03:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Jan-2024 11:56:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Jan-2024 10:09:30 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Jan-2024 10:08:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Jan-2024 10:04:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Jan-2024 10:08:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Jan-2024 10:20:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Jan-2024 10:17:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Jan-2024 10:35:51 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Jan-2024 10:08:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Jan-2024 11:10:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Jan-2024 10:24:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Jan-2024 10:32:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Jan-2024 10:34:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Jan-2024 10:27:49 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Jan-2024 11:42:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Jan-2024 10:30:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Jan-2024 10:37:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Jan-2024 10:46:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Jan-2024 10:06:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Jan-2024 10:05:42 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Jan-2024 10:06:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Jan-2024 10:03:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Jan-2024 11:37:52 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Jan-2024 09:39:42 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[30-Jan-2024 09:48:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-Jan-2024 12:32:08 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Feb-2024 10:32:47 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Feb-2024 09:56:59 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Feb-2024 09:59:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Feb-2024 10:00:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Feb-2024 10:06:12 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Feb-2024 10:11:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Feb-2024 10:13:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Feb-2024 09:39:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Feb-2024 09:43:26 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Feb-2024 09:42:31 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Feb-2024 09:48:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Feb-2024 09:54:17 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Feb-2024 09:51:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Feb-2024 09:54:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Feb-2024 10:30:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Feb-2024 10:05:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Feb-2024 10:16:38 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Feb-2024 10:11:56 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Feb-2024 10:27:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Feb-2024 10:25:39 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Feb-2024 10:14:25 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Feb-2024 10:28:49 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Feb-2024 10:12:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Feb-2024 10:25:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Feb-2024 10:28:50 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Feb-2024 10:27:05 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Feb-2024 10:47:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Mar-2024 11:09:45 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Mar-2024 11:00:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[03-Mar-2024 10:56:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[04-Mar-2024 10:58:10 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[05-Mar-2024 10:03:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[06-Mar-2024 09:39:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[07-Mar-2024 09:16:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[08-Mar-2024 09:31:03 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[09-Mar-2024 09:51:57 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[10-Mar-2024 09:33:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[11-Mar-2024 09:46:13 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[12-Mar-2024 09:25:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[13-Mar-2024 09:37:24 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[14-Mar-2024 09:48:55 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[15-Mar-2024 09:39:27 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[16-Mar-2024 10:06:47 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[17-Mar-2024 09:37:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Mar-2024 09:43:34 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[19-Mar-2024 09:41:15 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[20-Mar-2024 10:06:41 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[21-Mar-2024 12:19:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[22-Mar-2024 09:50:01 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[23-Mar-2024 09:56:33 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[24-Mar-2024 09:59:35 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[25-Mar-2024 09:49:02 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[26-Mar-2024 10:07:19 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[27-Mar-2024 10:36:40 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[28-Mar-2024 10:03:09 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[29-Mar-2024 09:50:06 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[30-Mar-2024 09:35:54 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-Mar-2024 09:15:07 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[01-Apr-2024 09:50:28 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[02-Apr-2024 10:04:29 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[18-Jul-2024 10:23:05] PHP Notice:  Use of undefined constant PHP_MAJOR_VERSION - assumed 'PHP_MAJOR_VERSION' in Command line code on line 1
+[18-Jul-2024 10:23:05] PHP Notice:  Use of undefined constant PHP_MINOR_VERSION - assumed 'PHP_MINOR_VERSION' in Command line code on line 1
+[18-Jul-2024 10:23:05] PHP Notice:  Use of undefined constant PHP_RELEASE_VERSION - assumed 'PHP_RELEASE_VERSION' in Command line code on line 1
+[18-Jul-2024 04:53:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlreader.so' (tried: /opt/alt/php73/usr/lib64/php/modules/xmlreader.so (/opt/alt/php73/usr/lib64/php/modules/xmlreader.so: undefined symbol: dom_node_class_entry), /opt/alt/php73/usr/lib64/php/modules/xmlreader.so.so (/opt/alt/php73/usr/lib64/php/modules/xmlreader.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[18-Jul-2024 04:53:56 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
